@@ -1,0 +1,157 @@
+h1 {
+    font-family: 'Amatic SC', cursive;
+    font-size:50pt;
+    text-align: center;
+    color: darkred;
+    margin: 10px 0 0 0;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+    margin: 0;
+    color: dimgray;
+}
+
+
+h3 {
+    font-size: 20px;
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+    margin: 0px 0px 20px 0px;
+    color: dimgray;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+    margin: 0;
+    color: darkred;
+}
+
+span {
+    background-image: url("farmgrass.jpg");
+    border: 1px solid white;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+}
+
+.cardDirt {
+    background-image: url("dirt2.jpg");
+    border: 1px solid white;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+}
+
+.cardWorm {
+    background-image: url("worm.jpg");
+    border: 1px solid white;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+}
+
+
+#garden {
+    align-content: center;
+    text-align: center;
+}
+
+#garden span {
+    margin: 8px;
+}
+
+body {
+    background-color: #ffffe0;
+}
+
+#progressBar {
+    text-align: center;
+
+}
+
+#progress {
+    min-width: 400px;
+    height: 30px;
+    text-align: center;
+    color: darkslategrey;
+    clear: both;
+    background-color: olivedrab;
+    border-radius: 10px;
+}
+
+
+#wormsRemaining {
+    font-size: 40px;
+    color: darkred;
+}
+
+#notification {
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    font-size: 40px;
+    color: white;
+    background-color: darkred;
+    position: center;
+}
+
+#notification2 {
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    font-size: 40px;
+    color: white;
+    background-color: darkgreen;
+    position: center;
+}
+/*}*/
+/*#notification span.dismiss {*/
+/*    border:2px solid #FFF;*/
+
+/*}*/
+/*#notification a {*/
+/*    color:white;*/
+/*    text-decoration:none;*/
+
+/*}*/
+
+/*progress#progress {*/
+/*    text-align: center;*/
+/*}*/
+
+
+/*#progressStatus {*/
+/*    width: 50%;*/
+/*    background-color: #ddd;*/
+/*}*/
+
+/*#myProgressBar {*/
+/*    width: 1%;*/
+/*    height: 35px;*/
+/*    background-color: #4CAF50;*/
+/*    text-align: center;*/
+/*    line-height: 32px;*/
+/*    color: black;*/
+/*    text-align: center;*/
+/*}*/
+
+
+
+/*#myProgress {*/
+/*    width: 500px;*/
+/*    background-color: dimgray;*/
+/*    margin-top: 30px;*/
+
+/*}*/
+
+/*#myBar {*/
+/*    width: 30%;*/
+/*    height: 30px;*/
+/*    background-color: darkred;*/
+
+/*}*/
+
